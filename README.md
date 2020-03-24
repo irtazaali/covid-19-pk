@@ -1,5 +1,5 @@
 # covid-19-pk
-COVID-19-PK Data for PAKISTAN and SAARC Countries
+COVID-19-PK Data for PAKISTAN and Neighbouring Countries
 
 
 
